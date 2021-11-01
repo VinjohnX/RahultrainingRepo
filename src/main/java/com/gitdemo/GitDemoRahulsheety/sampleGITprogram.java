@@ -8,6 +8,9 @@ public class sampleGITprogram {
 		System.out.println("Sample program to pratice GIT//GITHUB");
 		System.out.println("Sample Program to pratice GIT/GITUB 2");
 		System.out.println("Sample Program to pratice GIT/GITUB 3");
+		System.out.println("Sample Program to pratice GIT/GITUB 4");
+		System.out.println("Sample Program to pratice GIT/GITUB 5");
+		System.out.println("Sample Program to pratice GIT/GITUB 6");
 
 	}
 
