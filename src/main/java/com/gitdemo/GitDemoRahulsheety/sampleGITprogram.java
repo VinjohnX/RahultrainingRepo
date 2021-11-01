@@ -6,6 +6,8 @@ public class sampleGITprogram {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Sample program to pratice GIT//GITHUB");
+		System.out.println("Sample Program to pratice GIT/GITUB 2");
+		System.out.println("Sample Program to pratice GIT/GITUB 3");
 
 	}
 
