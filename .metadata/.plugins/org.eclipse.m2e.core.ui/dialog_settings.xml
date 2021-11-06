@@ -3,10 +3,17 @@
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
 <<<<<<< HEAD
+<<<<<<< HEAD
 			<item value="C:\Users\DELL\GitSampleProject"/>
 =======
 			<item value="C:\Users\DELL\RahultrainingRepo"/>
 >>>>>>> ad4eb4cb58e8c371e861522e089a04346db1935d
+=======
+			<item value="C:\Users\DELL\RahultrainingRepo"/>
+=======
+			<item value="C:\Users\DELL\GitSampleProject"/>
+>>>>>>> 433b3892aeef6387e67abfba859bb023b8885e48
+>>>>>>> 3a40c6c717791ae4f1f559b2113860bd1091b208
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
