@@ -2,7 +2,11 @@
 <section name="Workbench">
 	<section name="MavenProjectImportWizardPage">
 		<list key="rootDirectory">
+<<<<<<< HEAD
 			<item value="C:\Users\DELL\RahultrainingRepo"/>
+=======
+			<item value="C:\Users\DELL\GitSampleProject"/>
+>>>>>>> 433b3892aeef6387e67abfba859bb023b8885e48
 		</list>
 		<list key="projectNameTemplate">
 			<item value="[artifactId]"/>
