@@ -14,4 +14,8 @@ public class sampleGITprogram {
 
 	}
 	
+	public void stemert()
+	{
+		System.out.println("The Coding is added in develop branch");
+	}
 }
