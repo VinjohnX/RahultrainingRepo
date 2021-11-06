@@ -13,5 +13,9 @@ public class sampleGITprogram {
 		System.out.println("Sample Program to pratice GIT/GITUB 6");
 
 	}
+	public void stunts()
+	{
+		System.out.println("The programs are not working..OOOH");
+	}
 	
 }
