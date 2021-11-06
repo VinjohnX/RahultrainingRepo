@@ -13,5 +13,5 @@ public class sampleGITprogram {
 		System.out.println("Sample Program to pratice GIT/GITUB 6");
 
 	}
-
+	
 }
